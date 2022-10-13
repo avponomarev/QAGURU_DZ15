@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15f2819b-abd6-4b46-9618-c0b2cf8971e6" name="Changes" comment="DZ15">
+      <change afterPath="$PROJECT_DIR$/images/jenkins_job_results.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ponomarev/andrei/X5Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ponomarev/andrei/X5Tests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,12 +61,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/qaguru/X5",
+    "last_opened_file_path": "D:/qaguru/X5/images",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\qaguru\X5\images" />
       <recent name="D:\qaguru\X5" />
       <recent name="D:\qaguru\DZ5(11)\notifications" />
       <recent name="D:\qaguru\DZ5(11)" />
@@ -278,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665684522618</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="DZ15">
+      <created>1665685392145</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1665685392145</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
