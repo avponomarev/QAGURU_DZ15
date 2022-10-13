@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15f2819b-abd6-4b46-9618-c0b2cf8971e6" name="Changes" comment="DZ13" />
+    <list default="true" id="15f2819b-abd6-4b46-9618-c0b2cf8971e6" name="Changes" comment="DZ15">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +66,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\qaguru\X5" />
       <recent name="D:\qaguru\DZ5(11)\notifications" />
       <recent name="D:\qaguru\DZ5(11)" />
     </key>
@@ -260,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664823415983</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="DZ15">
+      <created>1665683537114</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1665683537114</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -283,7 +293,8 @@
     <MESSAGE value="DZ10_jenkins" />
     <MESSAGE value="DZ11_jenkins" />
     <MESSAGE value="DZ13" />
-    <option name="LAST_COMMIT_MESSAGE" value="DZ13" />
+    <MESSAGE value="DZ15" />
+    <option name="LAST_COMMIT_MESSAGE" value="DZ15" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

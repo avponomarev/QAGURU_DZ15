@@ -31,7 +31,7 @@ public class X5Tests extends TestBase {
             sleep (5);
         });
     }
-    @Test
+   /* @Test
     @DisplayName("Проверка появления меню второго уровня для 'Партнерам'")
     void subPartnersMenuVisibleTest() {
         step("Открываем 'https://www.x5.ru/'", () -> {
@@ -46,9 +46,9 @@ public class X5Tests extends TestBase {
             $(".header__sub-menu-link-item").shouldBe(Condition.visible);
 
         });
-    }
+    }*/
 
-    @Test
+   /* @Test
     @DisplayName("Проверка появления меню второго уровня для 'Инвесторам'")
     void subInvestorMenuVisibleTest() {
         step("Открываем 'https://www.x5.ru/'", () -> {
@@ -63,9 +63,9 @@ public class X5Tests extends TestBase {
             $(".header__sub-menu-link-item").shouldBe(Condition.visible);
         });
 
-    }
+    }*/
 
-    @Test
+    /*@Test
     @DisplayName("Проверка появления меню второго уровня для 'Пресс-центр'")
     void subPressCenterMenuVisibleTest() {
         step("Открываем 'https://www.x5.ru/'", () -> {
@@ -81,7 +81,7 @@ public class X5Tests extends TestBase {
         });
 
 
-    }
+    }*/
     @Test
     @DisplayName("Проверка открытия страницы о карьере'")
     void careerTest() {
