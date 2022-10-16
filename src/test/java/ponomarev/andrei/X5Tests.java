@@ -29,57 +29,7 @@ public class X5Tests extends TestBase {
             sleep (5);
         });
     }
-   /* @Test
-    @DisplayName("Проверка появления меню второго уровня для 'Партнерам'")
-    void subPartnersMenuVisibleTest() {
-        step("Открываем 'https://www.x5.ru/'", () -> {
-            open("https://www.x5.ru/ru/");
-        });
 
-        step("Навести на пункт Партнерам", () -> {
-            $(byText("Партнерам")).hover();
-        });
-        sleep (5);
-        step("Проверка появления меню второго уровня", () -> {
-            $(".header__sub-menu-link-item").shouldBe(Condition.visible);
-
-        });
-    }*/
-
-   /* @Test
-    @DisplayName("Проверка появления меню второго уровня для 'Инвесторам'")
-    void subInvestorMenuVisibleTest() {
-        step("Открываем 'https://www.x5.ru/'", () -> {
-            open("https://www.x5.ru/ru/");
-        });
-
-        step("Навести на пункт Инвесторам", () -> {
-            $(byText("Инвесторам")).hover();
-        });
-        sleep (5);
-        step("Проверка появления меню второго уровня", () -> {
-            $(".header__sub-menu-link-item").shouldBe(Condition.visible);
-        });
-
-    }*/
-
-    /*@Test
-    @DisplayName("Проверка появления меню второго уровня для 'Пресс-центр'")
-    void subPressCenterMenuVisibleTest() {
-        step("Открываем 'https://www.x5.ru/'", () -> {
-            open("https://www.x5.ru/ru/");
-        });
-
-        step("Навести на пункт Пресс-центр", () -> {
-            $(byText("Пресс-центр")).hover();
-        });
-        sleep (5);
-        step("Проверка появления меню второго уровня Пресс-центр", () -> {
-            $(".header__sub-menu-link-item").shouldBe(Condition.visible);
-        });
-
-
-    }*/
     @Test
     @DisplayName("Проверка открытия страницы о карьере'")
     void careerTest() {
@@ -139,7 +89,7 @@ public class X5Tests extends TestBase {
         step ("Open url 'https://www.x5.ru/ru/", () ->
                 open ("https://www.x5.ru/ru/"));
 
-        step ("Главная - X5 Group", () -> {
+        step ("Проверка отображения заголовка на главной странице", () -> {
             String expectedTitle = "Главная - X5 Group";
             String actualTitle = title ();
 
